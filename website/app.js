@@ -45,7 +45,6 @@ btn.addEventListener('click', function(){
 });
 
 
-// const getWeather = async (apiUrl, zipCode, key)=>{
 // to get weather (web) api data
 async function getWeather(apiUrl,zipCode,apiKey) {
         const res = await fetch(apiUrl + zipCode + apiKey)
