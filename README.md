@@ -17,7 +17,7 @@ creating an account openweathermap * [openweathermap](https://openweathermap.org
 ##used in the js file 
 >- `server.js` its the importnat file to contact server 
 >- `app.js` the project file have all code 
->- open with in localhost with port 3000 linke that http://localhost:3000/
+>- open in localhost with port 3000 linke that http://localhost:3000/
 
 
 
