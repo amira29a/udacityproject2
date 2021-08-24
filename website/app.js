@@ -40,7 +40,6 @@ btn.addEventListener('click', function(){
         // first i used this way with date:d but the date was so long then i used newDate
                 // add data to post request 
          postData('/add', {date:newDate, temp:data.list[0].main.temp , content:feelings})
-    //   postData('/add', {date:newDate, temp:data.main.temp, content:feelings})
     
     })
 });
