@@ -11,7 +11,7 @@ const content = document.getElementById("content");
 const btn = document.getElementById("generate"); // with the id of generate
 let zipInput = document.getElementById("zip");
 let feelingInput = document.getElementById("feelings");
-const apiKey = "7fe2959e58622a1edb9ea0a58c779e9a"; // unique API key (you can always find it on your account page
+const apiKey = "7fe2959e58622a1edb9ea0a58c779e9a&units=imperial"; // unique API key (you can always find it on your account page
 const url = "http://api.openweathermap.org/data/2.5/forecast?zip=";
 const appied = "&appid=";
 // with the id of generate should have an addEventListener() method
