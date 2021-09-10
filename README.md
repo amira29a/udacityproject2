@@ -8,6 +8,8 @@ the app made by `node.js`
 >-  `npm install cors` Install the cors package from the terminal.
 >- `npm install body-parser` Install the body-parser package from the terminal
 >- `npm install express` To install express, we use the 
+>>Create a package.json file using `npm init`
+
 
 
 # Prerequisites
